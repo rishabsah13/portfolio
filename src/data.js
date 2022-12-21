@@ -39,7 +39,7 @@ export const projects = [
     image: "./cart.png",
     link: "https://xcheckout-cart.netlify.app/",
   },
-    {
+      {
     title: "MERN Todo App",
     subtitle: "CRUD App",
     description:
@@ -47,7 +47,6 @@ export const projects = [
     image: "./mern.png",
     link: "https://todortk-zuew4leo7-rishabsah13.vercel.app/",
   },
-
 ];
 
 export const skills = [
