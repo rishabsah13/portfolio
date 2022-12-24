@@ -45,7 +45,7 @@ export const projects = [
     description:
       "This app has been made with react as frontend using redux toolkit,nodejs as backend and mongoDB as database.",
     image: "./mern.png",
-    link: "https://todortk-zuew4leo7-rishabsah13.vercel.app/",
+    link: "https://todortk-rishabsah13.vercel.app/",
   },
 ];
 
